@@ -36,7 +36,37 @@
 
 ### 2.6 La reglementation concernant la protection des données personnelles
 
+Ne pas hésitez à se renseigner sur unternet pour trouver des informations sur la réglementation concernant la protection des données personnelles.
+
 ### 2.7 Le cadre contractuel du projet
 
 ### 2.8 Etude financière
 
+## 3. LA prise en compte du risque 
+
+### 3.1 Les trois axes
+
+- Expressions des besoins
+- Phase de développement
+- Livraison
+- Maintenance
+- Support
+
+
+### 3.2 Le modèle de développement
+
+#### 3.2.1 Le modèle en cascade
+
+#### 3.2.2 Le modèle en V
+
+#### 3.2.3 Le modèle Itératif
+
+####
+
+### 3.3 Le modèle d'analyse
+
+### 3.4 Le modèle de pilotage
+
+### 3.5 Prendre en compte le risque
+
+### 3.6 Étude du risque pour le projet CRM
