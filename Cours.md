@@ -61,8 +61,6 @@ Ne pas hésitez à se renseigner sur unternet pour trouver des informations sur 
 
 #### 3.2.3 Le modèle Itératif
 
-####
-
 ### 3.3 Le modèle d'analyse
 
 ### 3.4 Le modèle de pilotage
@@ -70,3 +68,53 @@ Ne pas hésitez à se renseigner sur unternet pour trouver des informations sur 
 ### 3.5 Prendre en compte le risque
 
 ### 3.6 Étude du risque pour le projet CRM
+
+
+## 4.2 Phase du projet
+
+### 4.2.1 l'expresion de besoin et le cahier des charges
+
+le cahier des charges est un document qui décrit les besoins et les attentes du client. Il permet de définir les objectifs du projet, les contraintes à respecter et les risques à éviter.
+
+- Contexte et objéctif stratégique
+- Objet et périmètre du projet
+- Domaine métier
+- Périmètre fonctionnel
+- Critère de qualité
+- Condition opérationnelle
+- Méthodologie
+- Planning et aspects financiers
+- Responsabilité et garanties
+
+### 4.2.2 Le cadrage et les spécifications générales
+
+- **Cadrage du projet** : Le cadrage du projet permet de définir les objectifs, les contraintes et les risques du projet.
+- **Spécifications générales** : Les spécifications générales permettent de définir les fonctionnalités et les contraintes du projet.
+
+### 4.2.3 La conception détaillée
+
+- **Conception détaillée** : La conception détaillée permet de définir l'architecture et les composants du projet.
+
+### 4.2.4 La réalisation
+
+- **Réalisation** : La réalisation permet de développer et de tester les composants du projet.
+
+### 4.2.5 Les tests et les corrections, l'assurance qualité
+
+- **Tests et corrections** : Les tests et les corrections permettent de vérifier la qualité et la conformité du projet.
+- **Assurance qualité** : L'assurance qualité permet de garantir la qualité et la conformité du projet.
+
+### 4.2.6 Les types de tests
+
+- **Tests unitaires** : Les tests unitaires permettent de vérifier le bon fonctionnement des composants du projet.
+- **Tests d'intégration** : Les tests d'intégration permettent de vérifier l'interfaçage des composants du projet.
+- **Tests de validation** : Les tests de validation permettent de vérifier la conformité du projet aux spécifications.
+
+### 4.2.7 Gestion des versions
+
+- **Gestion des versions** : La gestion des versions permet de suivre l'évolution du projet et de gérer les modifications apportées aux composants du projet.
+
+
+### 4.2.8 Le lancement
+
+- **Lancement** : Le lancement permet de mettre en production le projet et de former les utilisateurs.
